@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-papers",
           title: "Papers",
-          description: "Publications from our current and former group members.",
+          description: "Publications from the group members.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -472,6 +472,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-we-are-recruiting-a-fully-funded-3-year-international-phd-studentship-is-available-for-an-october-2025-or-february-june-october-2026-start-on-the-topic-of-trustworthy-generative-ai-in-healthcare",
           title: 'We are recruiting! A fully-funded 3-year international PhD studentship is available for an...',
+          description: "",
+          section: "News",},{id: "news-phd-student-zhi-qin-tan-led-our-efforts-that-secured-the-first-place-in-each-of-the-three-tasks-on-cone-beam-computed-tomography-cbct-scan-segmentation-in-the-miccai-2025-oral-and-dental-image-analysis-odin-challenges-congratulations-to-zhi-qin-and-the-supervsiory-team-yunpeng-li-owen-addison-xiatian-zhu",
+          title: 'PhD student Zhi Qin Tan led our efforts that secured the first place...',
           description: "",
           section: "News",},{id: "projects-bayesian-detector-combination",
           title: 'Bayesian Detector Combination',
