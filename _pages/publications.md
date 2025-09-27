@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Papers
-description: Publications from our current and former group members.
+description: Publications from the group members.
 nav: true
 nav_order: 4
 ---
