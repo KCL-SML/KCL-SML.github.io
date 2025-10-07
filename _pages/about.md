@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Group_Photo.JPG
+  image: Group_Photo_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Floor 17, Guys Tower</p>
