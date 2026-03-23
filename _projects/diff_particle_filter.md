@@ -16,13 +16,37 @@ or with a low number of parameters. To learn to more complex models, such as tho
 first order optimisation techniques. However, these require access to the derivative of the particle filtering algorithm which, as it is a stochastic program, is not defined. Particle filters
 modified such that they return a useful surrogate derivative estimate are known as 'differentiable particle filters (DPFs)'.
 
-## **Implementation**
+## **PyDPF Package**
+
+[![PyPI version](https://img.shields.io/pypi/v/pydpf)](https://pypi.org/project/pydpf/)
+[![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://pypi.org/project/pydpf/)
+[![Docs](https://img.shields.io/badge/docs-online-green)](https://python-dpf.readthedocs.io/en/latest/)
+[![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/John-JoB/pydpf)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.25693-blue.svg)](https://arxiv.org/abs/2510.25693)
+
+
+
 
 In collaboration with researchers at the University of Edinburgh we have developed a python package for differentiable particle filtering (PyDPF)[^2]. Our package is designed with flexibility in mind, we provide a convenient framework 
 for developing sequential Monte-Carlo algorithms for use with the popular auto-differentiation package PyTorch. We provide a standardised pattern for defining state-space models, using familiar PyTorch Module classes,
-that allows them to be used with any algorithm defined in PyDPF. We implement many of the currently published filtering algorithms, but employ a highly modular design allowing an ease of development for new algorithms and variants. 
+that allows them to be used with any algorithm defined in PyDPF. We implement many of the currently published filtering algorithms, but employ a highly modular design allowing an ease of development for new algorithms and variants.
 
-Pypi distribution coming soon.
+Our package is availiable on [PyPi](https://pypi.org/project/pydpf/).
+```
+pip install pydpf
+```
+
+For more information please see the [full documentation](https://python-dpf.readthedocs.io/en/latest/) and [arxiv paper](https://arxiv.org/abs/2510.25693). Alternatively, we provide a getting started tutorial in both [text](https://python-dpf.readthedocs.io/en/latest/tutorial.html) 
+and [notebook](https://github.com/John-JoB/pydpf/blob/main/tutorial_notebooks/pydpf-tutorial.ipynb) form with a comentated video walk through below:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1IYf8rldMY?si=Ofaehj_IsVbKO7pR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+The source code for PyDPF and the examples we include in our technical report can be found in our [GitHub Repository](https://github.com/John-JoB/pydpf/tree/main).
+
+
+
 
 ## **Differentiable Interacting Multiple Model Particle Filtering**
 
