@@ -40,7 +40,7 @@ For more information please see the [full documentation](https://python-dpf.read
 and [notebook](https://github.com/John-JoB/pydpf/blob/main/tutorial_notebooks/pydpf-tutorial.ipynb) form with a comentated video walk through below:
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1IYf8rldMY?si=Ofaehj_IsVbKO7pR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GtGYP9QVKnw?si=yDRwkHtFF2f27Ijg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 The source code for PyDPF and the examples we include in our technical report can be found in our [GitHub Repository](https://github.com/John-JoB/pydpf/tree/main).
