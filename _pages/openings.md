@@ -9,7 +9,7 @@ nav_order: 4
 
 #### Faculty and Research Fellow openings:
 
-We are recruiting a [Research Associate](https://www.kcl.ac.uk/jobs/145128-research-associate) position is for an MPS Foundation-supported project on [AI-supported Dental Record Auditing](https://www.thempsfoundation.org/our-research/article/ai-supported-dental-record-self-auditing).
+We are recruiting a [Research Associate](https://www.kcl.ac.uk/jobs/145128-research-associate) position for an MPS Foundation-supported project on [AI-supported Dental Record Auditing](https://www.thempsfoundation.org/our-research/article/ai-supported-dental-record-self-auditing).
 
 The closing date for the recruitment is 11th May, 2026.
 
