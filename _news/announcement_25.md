@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-3-28
+date: 2026-3-25
 inline: true
 related_posts: false
 ---
 
-[Yunpeng Li](https://yunpengli.ac/) and [Zhi Qin Tan](https://zhiqin1998.github.io/) [presented](https://www.linkedin.com/posts/becertainai_come-to-the-kings-college-london-stand-at-activity-7443331583320875009-TPkV) BeCertain and our work, [DentalX: Context-Aware Dental Disease Detection with Radiographs](https://arxiv.org/abs/2601.08797) at the [2026 IADR/AADOCR/CADR General Session & Exhibition](https://www.iadr.org/2026iags), in San Diego, CA, USA.
+[Yunpeng Li](https://yunpengli.ac/) presented our [PyDPF](https://github.com/John-JoB/pydpf) work with [John-Joseph Brady](https://scholar.google.com/citations?user=Ia7R-BQAAAAJ&hl=en), Ben Cox and Victor Elvira at the [SIAM Conference on Uncertainty Quantification (UQ26)](https://www.siam.org/conferences-events/past-event-archive/uq26/) in Minneapolis, MN, USA.
