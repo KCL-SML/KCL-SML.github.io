@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [BeCertain](https://becertain.ai/) team and TAIR group members [exhibited](https://www.linkedin.com/posts/becertain-kcl-nihr-ugcPost-7461514761919172608-XQDg) BeCertain at BCDCS'26, at the NEC, Birmingham.
+The [BeCertain](https://becertain.ai/) team and TAIR group members [exhibited](https://www.linkedin.com/posts/becertain-kcl-nihr-ugcPost-7461514761919172608-XQDg) BeCertain at the British Dental Conference & Dentistry Show (BDCDS) 2026, at the NEC, Birmingham.
