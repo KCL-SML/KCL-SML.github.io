@@ -5,7 +5,7 @@ permalink: /members/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Faculty, Postdoctoral Researchers, PhD Students]
+display_categories: [Faculty, PhD Students, Past Members]
 horizontal: false
 ---
 
