@@ -67,6 +67,19 @@ layout: default
         </span>
       {%- endif -%}
 
+      <!-- secondary PDF link -->
+      {%- if page.main_pdf2 -%}
+        <span class="link-block">
+          <a href="{{ page.main_pdf2}}" target="_blank"
+          class="btn btn-default rounded-pill p-2 px-3">
+            <span class="icon">
+              <i class="fas fa-file-pdf"></i>
+            </span>
+            <span>Paper</span>
+          </a>
+        </span>
+      {%- endif -%}
+
       <!-- Supplementary PDF link -->
       {%- if page.supp_pdf -%}
         <span class="link-block">
@@ -97,6 +110,19 @@ layout: default
       {%- if page.arxiv -%}
         <span class="link-block">
           <a href="{{ page.arxiv }}" target="_blank"
+          class="btn btn-default rounded-pill p-2 px-3">
+            <span class="icon">
+              <i class="ai ai-arxiv"></i>
+            </span>
+            <span>arXiv</span>
+          </a>
+        </span>
+      {%- endif -%}
+
+      <!-- secondary arxiv link -->
+      {%- if page.arxiv2 -%}
+        <span class="link-block">
+          <a href="{{ page.arxiv2 }}" target="_blank"
           class="btn btn-default rounded-pill p-2 px-3">
             <span class="icon">
               <i class="ai ai-arxiv"></i>
