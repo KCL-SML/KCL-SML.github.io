@@ -533,6 +533,11 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/template/";
+            },},{id: "projects-u-mamba2-and-u-mamba2-ssl",
+          title: 'U-Mamba2 and U-Mamba2-SSL',
+          description: "Scaling State Space Models for Dental Anatomy Segmentation and Semi-supervised Tooth and Pulp Segmentation in CBCT",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/u-mamba2/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
