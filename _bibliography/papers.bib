@@ -14,6 +14,19 @@
 @String{ICRA={International Conference on Robotics and Automation (ICRA)}}
 @String{ISBI={International Symposium on Biomedical Imaging (ISBI)}}
 @String{ICML={International Conference on Machine Learning (ICML)}}
+@String{MICCAI={International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)}}
+
+@inproceedings{tan2026c,
+  abbr={TF3},
+  title={ ToothFairy3: Scaling CBCT Maxillofacial Segmentation to 77 Classes with U-Mamba2},
+  author={Luca Lumetti and Zhi Qin Tan and Lorenzo Borghi and Owen Addison and Li Yunpeng and Gabriele Rosati and Niels Van Nistelrooij and Shankeeth Vinayahalingam and Costantino Granaand Federico Bolelli},
+  booktitle=MICCAI,
+  year={2026},
+  code={https://github.com/zhiqin1998/UMamba2},
+  html={https://ditto.ing.unimore.it/toothfairy3},
+  abstract={Accurate delineation of maxillofacial anatomy in Cone-Beam Computed Tomography (CBCT) is essential for dental planning but remains difficult due to limited public multi-structure datasets and the runtime cost of 3D deep learning models. We present ToothFairy3, a large-scale CBCT benchmark extending ToothFairy2 with 102 additional fully annotated scans and an expanded taxonomy covering 77 classes, including 32 tooth-specific pulp cavities and small neurovascular structures. ToothFairy3 comprises 582 volumes (over 40k annotated objects), with 532 released with voxel-level labels and 50 held out for leakage-free, server-side evaluation. We also introduce U-Mamba2, an efficient U-Net-style architecture that inserts a Mamba2 state-space block at the bottleneck to capture global context with favorable scaling. Our proposed domain-informed training further improves the learning of maxillofacial anatomies. Across CNN, Transformer, and Mamba baselines, U-Mamba2 achieves competitive Dice/HD95 scores with lower latency and, compared with training on state-of-the-art public CBCT datasets, ToothFairy3-trained models generalize best to the hidden test set, particularly for maxillary structures.},
+  selected={true}
+}
 
 @inproceedings{brady2026icml,
   abbr={ICML},
