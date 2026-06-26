@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-openings",
+          title: "Openings",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/openings/";
+          },
         },{id: "nav-papers",
           title: "Papers",
           description: "Publications from the group members.",
@@ -389,7 +396,12 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "members-john-joseph-brady",
+    },{id: "members-dr-ayan-das",
+          title: 'Dr. Ayan Das',
+          description: "AI+ Academic Senior Fellow",
+          section: "Members",handler: () => {
+              window.location.href = "/members/ayandas/";
+            },},{id: "members-john-joseph-brady",
           title: 'John-Joseph Brady',
           description: "PhD student in statistical machine learning (2023-).",
           section: "Members",handler: () => {
