@@ -19,4 +19,4 @@ Due to the volume of emails, we will be unable to respond to every enquiry. If y
    - **Supervisors:** Dr Yunpeng Li and Dr Ayan Das.
    - **Funding:** Fully funded by Horizon Europe (home-rate fees plus a stipend at the UKRI rate; overseas applicants cover the fee difference).
    - **Start date:** 1st October 2026 or 1st February 2027.
-   - **Application deadline:** 15th August 2026.
+   - **Application deadline:** 15th August 2026. Applications are assessed on a rolling basis, so early application is encouraged.
