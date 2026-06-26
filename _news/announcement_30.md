@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Ayan Das](https://ayandas.me/) joined the Lab as an AI+ Academic Senior Fellow. Welcome Ayan!
+[Ayan Das](https://ayandas.me/) joined King's as an AI+ Academic Senior Fellow, based in the Faculty of Dentistry, Oral & Craniofacial Sciences. Welcome Ayan!
