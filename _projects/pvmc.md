@@ -118,12 +118,12 @@ PVMC most consistently captures the short-term autocorrelation structure of SPX 
 <div class="row justify-content-center">
     <div class="col-sm-6 col-md-6 col-lg-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"
-            path="assets/img/pvmc/Autocorrelation of absolute daily returns.png"
+            path="assets/img/PVMC/Autocorrelation of absolute daily returns.png"
             class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
     <div class="col-sm-6 col-md-6 col-lg-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"
-            path="assets/img/pvmc/Autocorrelation of squared daily returns.png"
+            path="assets/img/PVMC/Autocorrelation of squared daily returns.png"
             class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
 </div>
@@ -133,12 +133,12 @@ PVMC most consistently captures the short-term autocorrelation structure of SPX 
 <div class="row justify-content-center">
     <div class="col-sm-6 col-md-6 col-lg-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"
-            path="assets/img/pvmc/histogram_skewness.png"
+            path="assets/img/PVMC/histogram_skewness.png"
             class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
     <div class="col-sm-6 col-md-6 col-lg-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager"
-            path="assets/img/pvmc/histogram_kurtosis.png"
+            path="assets/img/PVMC/histogram_kurtosis.png"
             class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
 </div>
