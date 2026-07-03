@@ -1,8 +1,8 @@
 ---
 layout: custom-project
-title: Parallel Variational Monte Carlo (PVMC)
+title: Parallel Variational Monte Carlo (ICML 2026)
 description: Efficient Learning of Deep State Space Models via Importance Smoothing
-img: assets/img/pvmc/pvmc-diagram.png
+img: assets/img/PVMC/PVMC_weights.png
 redirect: 
 importance: 2
 category: Projects
