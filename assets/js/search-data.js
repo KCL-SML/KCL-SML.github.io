@@ -558,8 +558,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nihr_dental_xray/";
-            },},{id: "projects-parallel-variational-monte-carlo-pvmc",
-          title: 'Parallel Variational Monte Carlo (PVMC)',
+            },},{id: "projects-parallel-variational-monte-carlo-icml-2026",
+          title: 'Parallel Variational Monte Carlo (ICML 2026)',
           description: "Efficient Learning of Deep State Space Models via Importance Smoothing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pvmc/";
