@@ -9,7 +9,7 @@ nav_order: 4
 
 #### Funding opportunities for PhD applicants:
 
-We are accepting new PhD and MPhil students. Our research group is interested in developing fundamental methodologies in trustworthy AI, statistical signal processing, and multimodal machine learning, as well as translational work to address real-world, interdisciplinary applications in healthcare and environmental sciences.
+We are accepting new PhD students. Our research group is interested in developing fundamental methodologies in trustworthy AI, statistical signal processing, and multimodal machine learning, as well as translational work to address real-world, interdisciplinary applications in healthcare and environmental sciences.
 
 If you are interested in studying with us and your research interests align with ours, please email us your CV and academic transcripts.
 
