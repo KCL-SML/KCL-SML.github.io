@@ -411,6 +411,11 @@ ninja.data = [{
           description: "PhD student in Dental and Health Science Research (2025-).",
           section: "Members",handler: () => {
               window.location.href = "/members/ruiyanghao/";
+            },},{id: "members-weidong-liang",
+          title: 'Weidong Liang',
+          description: "Postdoctoral Research Associate (2026-).",
+          section: "Members",handler: () => {
+              window.location.href = "/members/weidongliang/";
             },},{id: "members-dr-xiongjie-chen",
           title: 'Dr. Xiongjie Chen',
           description: "Research Fellow in Machine Learning in Medical Imaging (2023-2025). PhD (2019-2023).",
