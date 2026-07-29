@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/members/ruiyanghao/";
             },},{id: "members-weidong-liang",
           title: 'Weidong Liang',
-          description: "Postdoctoral Research Associate (2026-).",
+          description: "Research Associate (2026-).",
           section: "Members",handler: () => {
               window.location.href = "/members/weidongliang/";
             },},{id: "members-dr-xiongjie-chen",
@@ -551,8 +551,8 @@ ninja.data = [{
           section: "News",},{id: "news-becertain-a-king-s-and-surrey-spin-out-has-completed-a-1-7-million-pre-seed-round-led-by-sure-valley-ventures-with-support-from-innovate-uk-to-bring-clinical-grade-ai-to-dental-diagnostics-read-the-king-s-news-story",
           title: 'BeCertain, a King’s and Surrey spin-out, has completed a £1.7 million pre-seed round,...',
           description: "",
-          section: "News",},{id: "news-welcome-weidong-liang-to-the-group-weidong-joins-us-as-a-postdoctoral-research-associate-on-the-mps-foundation-project-on-trustworthy-ai-supported-dental-record-self-auditing-and-risk-mitigation",
-          title: 'Welcome Weidong Liang to the group! Weidong joins us as a Postdoctoral Research...',
+          section: "News",},{id: "news-welcome-weidong-liang-to-the-group-weidong-joins-us-as-a-research-associate-on-the-mps-foundation-project-on-trustworthy-ai-supported-dental-record-self-auditing-and-risk-mitigation",
+          title: 'Welcome Weidong Liang to the group! Weidong joins us as a Research Associate...',
           description: "",
           section: "News",},{id: "news-we-are-recruiting-a-four-year-postdoctoral-research-associate-to-work-on-ai-for-scientific-discovery-and-biomanufacturing-as-part-of-a-horizon-europe-project-the-deadline-for-applications-is-9-august-2026-see-the-openings-page",
           title: 'We are recruiting a four-year Postdoctoral Research Associate to work on AI for...',
