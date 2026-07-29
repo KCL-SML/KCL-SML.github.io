@@ -545,7 +545,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-offering-a-funded-phd-position-on-diffusion-llm-powered-generative-ai-with-healthcare-applications-supervised-by-yunpeng-li-and-ayan-das-applications-are-assessed-on-a-rolling-basis-so-apply-early-the-deadline-is-15-august-2026-see-the-openings-page",
           title: 'We are offering a funded PhD position on Diffusion/LLM Powered Generative AI with...',
           description: "",
-          section: "News",},{id: "news-john-jo-presented-our-paper-efficient-learning-of-deep-state-space-models-via-importance-smoothing-at-icml-2026",
+          section: "News",},{id: "news-john-jo-presented-our-paper-efficient-learning-of-deep-state-space-models-via-importance-smoothing-at-the-international-conference-on-machine-learning-icml-2026-in-seoul-south-korea",
           title: 'John-Jo presented our paper Efficient Learning of Deep State Space Models via Importance...',
           description: "",
           section: "News",},{id: "news-becertain-a-king-s-and-surrey-spin-out-has-completed-a-1-7-million-pre-seed-round-led-by-sure-valley-ventures-with-support-from-innovate-uk-to-bring-clinical-grade-ai-to-dental-diagnostics-read-the-king-s-news-story",
