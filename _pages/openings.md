@@ -24,7 +24,14 @@ If you are interested in studying with us and your research interests align with
 
 Due to the volume of emails, we will be unable to respond to every enquiry. If you do not hear from us after two weeks, please assume that your application will not move forward.
 
-1. A funded PhD position on [Diffusion/LLM Powered Generative AI with Healthcare Applications](https://www.kcl.ac.uk/dentistry/research/phd-opportunities-folder/cocts-diffusionllm-powered-generative-ai-with-healthcare-applications)
+1. A fully funded PhD position on [Trustworthy Generative AI in Healthcare](https://www.kcl.ac.uk/dentistry/research/phd-opportunities-folder/cocts-trustworthy-generative-ai-in-healthcare)
+   - **Supervisors:** Dr Yunpeng Li and Dr Yali Du.
+   - **Funding:** Funded by the Faculty of Dentistry, Oral & Craniofacial Sciences (tuition fees at the home or international rate plus a stipend at the UKRI London rate), for 3 years.
+   - **Start date:** 1st February 2027, 1st June 2027 or 1st October 2027.
+   - **Application deadline:** Rolling. The project stays open until a suitable candidate is found, so early application is encouraged.
+   - **How to apply:** Apply through [apply.kcl.ac.uk](https://apply.kcl.ac.uk/) for Dental and Health Sciences Research MPhil/PhD (Full-time), quoting reference 2026YL-TGAi-R2 in the research proposal section. Please contact the supervisors before applying.
+
+2. A funded PhD position on [Diffusion/LLM Powered Generative AI with Healthcare Applications](https://www.kcl.ac.uk/dentistry/research/phd-opportunities-folder/cocts-diffusionllm-powered-generative-ai-with-healthcare-applications)
    - **Supervisors:** Dr Yunpeng Li and Dr Ayan Das.
    - **Funding:** Funded by Horizon Europe (home-rate fees plus a stipend at the UKRI rate; overseas applicants cover the fee difference).
    - **Start date:** 1st October 2026 or 1st February 2027.
