@@ -12,11 +12,11 @@ horizontal: false
 
 ## Current research funding
 
-Our work is supported by:
-
 - **[NIHR Invention for Innovation (i4i) Product Development Award](https://fundingawards.nihr.ac.uk/award/NIHR204566)**, _[Development and pre-market evaluation of AI-assisted dental disease detection with radiography](https://www.kcl.ac.uk/news/dentists-could-soon-have-a-new-ai-co-pilot-to-detect-tooth-decay)_, £1.75M, 2023 to 2026.
 - **[NERC Innovation in Environmental Monitoring](https://www.ukri.org/news/uk-invests-in-monitoring-of-natural-environment/)**, _[HumBug II: enabling large-scale acoustic monitoring for invasive insect species](https://humbug.ox.ac.uk/the-humbug-ii-project)_, £599K, 2024 to 2027.
 - **[the MPS Foundation](https://www.thempsfoundation.org/)**, _[Trustworthy AI-supported dental record self-auditing and risk mitigation](https://www.thempsfoundation.org/our-research/article/ai-supported-dental-record-self-auditing)_, £199K, 2026 to 2027.
+
+## Selected research topics
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -24,7 +24,6 @@ Our work is supported by:
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <!-- uncomment to restore display category -->
-  <h2 class="category"></h2>
   <!-- <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a> -->
