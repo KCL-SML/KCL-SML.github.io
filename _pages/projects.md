@@ -16,10 +16,9 @@ horizontal: false
 - **[NERC Innovation in Environmental Monitoring](https://www.ukri.org/news/uk-invests-in-monitoring-of-natural-environment/)**, _[HumBug II: enabling large-scale acoustic monitoring for invasive insect species](https://humbug.ox.ac.uk/the-humbug-ii-project)_, £599K, 2024 to 2027.
 - **[the MPS Foundation](https://www.thempsfoundation.org/)**, _[Trustworthy AI-supported dental record self-auditing and risk mitigation](https://www.thempsfoundation.org/our-research/article/ai-supported-dental-record-self-auditing)_, £199K, 2026 to 2027.
 
-## Selected research topics
-
 <!-- pages/projects.md -->
 <div class="projects">
+<h2 class="category" style="margin-top: 4rem;">Selected research topics</h2>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
