@@ -10,7 +10,7 @@ display_categories: [Projects]
 horizontal: false
 ---
 
-## Research funding
+## Current research funding
 
 Our work is supported by:
 
