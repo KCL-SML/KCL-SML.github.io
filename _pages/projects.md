@@ -10,12 +10,12 @@ display_categories: [Projects]
 horizontal: false
 ---
 
-## Current research funding
+## Currently funded projects
 
 - **[NIHR Invention for Innovation (i4i) Product Development Award](https://fundingawards.nihr.ac.uk/award/NIHR204566)**, _[Development and pre-market evaluation of AI-assisted dental disease detection with radiography](https://www.kcl.ac.uk/news/dentists-could-soon-have-a-new-ai-co-pilot-to-detect-tooth-decay)_, £1.75M, 2023 to 2026. PI: [Yunpeng Li](https://yunpengli.ac/).
 - **[Innovate UK Growth Catalyst Investor Partnerships](https://www.kcl.ac.uk/news/university-spin-out-becertain-raises-1.7-million-to-bring-clinical-grade-ai-to-dental-diagnostics)**, £700K, 2026 to 2027. PI: [Yunpeng Li](https://yunpengli.ac/).
 - **[NERC Innovation in Environmental Monitoring](https://www.ukri.org/news/uk-invests-in-monitoring-of-natural-environment/)**, _[HumBug II: enabling large-scale acoustic monitoring for invasive insect species](https://humbug.ox.ac.uk/the-humbug-ii-project)_, £599K, 2024 to 2027. PI: [Yunpeng Li](https://yunpengli.ac/).
-- **[the MPS Foundation](https://www.thempsfoundation.org/)**, _[Trustworthy AI-supported dental record self-auditing and risk mitigation](https://www.thempsfoundation.org/our-research/article/ai-supported-dental-record-self-auditing)_, £199K, 2026 to 2027. PI: [Yunpeng Li](https://yunpengli.ac/).
+- **[The MPS Foundation](https://www.thempsfoundation.org/)**, _[Trustworthy AI-supported dental record self-auditing and risk mitigation](https://www.thempsfoundation.org/our-research/article/ai-supported-dental-record-self-auditing)_, £199K, 2026 to 2027. PI: [Yunpeng Li](https://yunpengli.ac/).
 
 <!-- pages/projects.md -->
 <div class="projects">
